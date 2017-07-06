@@ -17,7 +17,7 @@ Usage
   	datepicker.init('inputID');
   </script>
 ```
-3. Suggest add some style to <input> to show better , just like:<br>
+3. Suggest add some style to `<input>` to show better , just like:<br>
 
 ```javascript
 <input type="text" id="inputText" class="datepicker-input">
