@@ -1,4 +1,7 @@
 # datePicker
+
+![](https://github.com/AnonymousBoy1/datePicker/raw/master/example.png) 
+<br>
 This project provided a easy-used datepicker plugin.
 
 Usage
@@ -29,7 +32,6 @@ Usage
 	}
 </style>
 ```
-![](https://github.com/AnonymousBoy1/datePicker/raw/master/example.png) 
 
 Example
 ----
