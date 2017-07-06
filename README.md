@@ -29,6 +29,8 @@ Usage
 	}
 </style>
 ```
+![](https://github.com/AnonymousBoy1/datePicker/raw/master/example.png) 
+
 Example
 ----
 `example.html` provided an complete example of this datapicker plugin.
