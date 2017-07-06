@@ -1,6 +1,6 @@
 # datePicker
 
-![](https://github.com/AnonymousBoy1/datePicker/raw/master/example.png) 
+![](https://github.com/AnonymousBoy1/datePicker/raw/master/img.png) 
 <br>
 This project provided a easy-used datepicker plugin.
 
