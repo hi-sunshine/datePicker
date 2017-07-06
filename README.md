@@ -7,32 +7,27 @@ Usage
 ```javascript
 <script type="text/javascript" src="bupt.datepicker.js"></script>
 ```
-2. Use the datepicker like follow:<br>
-```html
-<input type="text" id="inputID">
-```
-<br>
+2. Use the datepicker like follow.<br>
 ```javascript
+  <input type="text" id="inputID" />
   <script type="text/javascript">
-		  datepicker.init('inputID');
+  	datepicker.init('inputID');
   </script>
 ```
-3. Suggest add some style to `<input>` to show better , just like:
-```html
-<input type="text" id="inputText" class="datepicker-input">
-```
-<br>
+3. Suggest add some style to <input> to show better , just like:<br>
+
 ```javascript
- <style>
-		.datepicker-input{
-			border:1px solid #ccc;
-			border-radius: 4px;
-			padding: 5px;
-			height: 24px;
-			line-height: 24px;
-			width:230px;
-		}
-	</style>
+<input type="text" id="inputText" class="datepicker-input">
+<style>
+	.datepicker-input{
+		border:1px solid #ccc;
+		border-radius: 4px;
+		padding: 5px;
+		height: 24px;
+		line-height: 24px;
+		width:230px;
+	}
+</style>
 ```
 Example
 ----
