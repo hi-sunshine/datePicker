@@ -6,8 +6,9 @@ This project provided a easy-used datepicker plugin.
 
 Usage
 -----
-1. Import the `bupt.datepicker.js` into your page.<br>
-```javascript
+1. Import the `bupt.datepicker.css` and `bupt.datepicker.js` into your page.<br>
+```html
+<link type="text/css" rel="stylesheet" href="./bupt.datepicker.css" />
 <script type="text/javascript" src="bupt.datepicker.js"></script>
 ```
 2. Use the datepicker like follow.<br>
